@@ -6,8 +6,9 @@ You can click the Preview link to take a look at your changes.
 
 ### Hi there 👋, We are here with you !
 
-<p align="center">
+<!-- <p align="center">
 <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="130">
+ </p> -->
 <br>
   
    
@@ -23,7 +24,18 @@ You can click the Preview link to take a look at your changes.
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
 | ![hamzashoukat091's stats](https://github-readme-stats.vercel.app/api?username=hamzashoukat091&count_private=true&show_icons=true&theme=material-palenight) | [![](https://github-readme-streak-stats.herokuapp.com/?user=hamzashoukat091&theme=material-palenight)](https://github.com/hamzashoukat091) |
 
+<br>
+<table style="border: none">
+  <tr>
+  <td width="100%" valign="top" align='center'>
 
+## :raised_hands: Let's Learn Together!
+
+Feel free to ask me any questions about Python development | Web Development | ML | Data Science | Scripting | Scrapping. Using Python i have built many projects and done many tasks. Python is my base language. I'll happy to share my experience and answers with you. Let's learn together.
+
+  </td>
+  </tr>
+</table>
 <h3>My coding stack: </h3>
 <p>
   <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" />
@@ -44,30 +56,13 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
 
-## :raised_hands: Let's Learn Together!
 
-Feel free to ask me any questions about Python development | Web Development | ML | Data Science | Scripting | Scrapping. As simple as that!
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzashoukat091&theme=material-palenight&hide=Jupyter&layout=compact) -->
 
-  </td>
-  <td width="50%" valign="top">
-
-## :question: It's not perfect, isn't it?
-
-**For me, improvements are improvements.** So, if you have any suggestions or anything that can improve this `README`, feel free to create a pull request or open an issue.
-
-  </td>
-  </tr>
-</table>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzashoukat091&theme=material-palenight&hide=Jupyter&layout=compact)
-
-  <p align="center">
+<!--   <p align="center">
     NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
-</p>
+</p> -->
 <br>
   
 ------
