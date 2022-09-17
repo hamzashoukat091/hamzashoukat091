@@ -1,6 +1,6 @@
 
 <!---
-zeeshanrafiqrana/zeeshanrafiqrana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hamzashoukat091/hamzashoukat091 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
@@ -11,17 +11,17 @@ You can click the Preview link to take a look at your changes.
 <br>
   
    
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zeeshanrafiqrana/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hamzashoukat091/)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]() 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeeshanrafiqrana/) 
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeeshanrafiqrana01@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzashoukat091/) 
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzashoukat091@gmail.com)
 
 <br/>
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 |                                                                                                           |                                                                                      |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| ![Zeeshan Rafiq's stats](https://github-readme-stats.vercel.app/api?username=zeeshanrafiqrana&count_private=true&show_icons=true&theme=material-palenight) | [![](https://github-readme-streak-stats.herokuapp.com/?user=zeeshanrafiqrana&theme=material-palenight)](https://github.com/zeeshanrafiqrana) |
+| ![hamzashoukat091's stats](https://github-readme-stats.vercel.app/api?username=hamzashoukat091&count_private=true&show_icons=true&theme=material-palenight) | [![](https://github-readme-streak-stats.herokuapp.com/?user=hamzashoukat091&theme=material-palenight)](https://github.com/hamzashoukat091) |
 
 <h3>My coding stack: </h3>
 <p>
@@ -36,10 +36,10 @@ You can click the Preview link to take a look at your changes.
   </br>
 </p>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/zeeshanrafiqrana/odooapps?style=plastic)
-![GitHub language count](https://img.shields.io/github/languages/count/zeeshanrafiqrana/odooapps?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/zeeshanrafiqrana/odooapps?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/zeeshanrafiqrana/odooapps?color=red&style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/sawdeveloper/fimbay?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/hamzashoukat091/odooapps?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/hamzashoukat091/odooapps?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/hamzashoukat091/odooapps?color=red&style=plastic)
 
 <br/>
 
