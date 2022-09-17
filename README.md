@@ -23,23 +23,24 @@ You can click the Preview link to take a look at your changes.
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
 | ![hamzashoukat091's stats](https://github-readme-stats.vercel.app/api?username=hamzashoukat091&count_private=true&show_icons=true&theme=material-palenight) | [![](https://github-readme-streak-stats.herokuapp.com/?user=hamzashoukat091&theme=material-palenight)](https://github.com/hamzashoukat091) |
 
+
 <h3>My coding stack: </h3>
 <p>
   <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" />
   <img alt="React" src="https://img.icons8.com/color/48/000000/react-native.png" />
   <img alt="Javascript" src="https://img.icons8.com/color/50/000000/javascript.png" />
-  <img alt="Odoo" src="https://s10.gifyu.com/images/odoo.png" />
+<!--   <img alt="Odoo" src="https://s10.gifyu.com/images/odoo.png" /> -->
   <img alt="PostgreSql" src="https://img.icons8.com/color/48/000000/postgreesql.png" />  
-  <img alt="Docker" src="https://img.icons8.com/color/48/000000/docker-container.png" /> 
+<!--   <img alt="Docker" src="https://img.icons8.com/color/48/000000/docker-container.png" />  -->
   <img alt="Github" src="https://img.icons8.com/doodle/48/000000/github.png" /> 
-  <img alt="Xml" src="https://s10.gifyu.com/images/xml-vector-icon-removebg-preview-1.png" />
+<!--   <img alt="Xml" src="https://s10.gifyu.com/images/xml-vector-icon-removebg-preview-1.png" /> -->
   </br>
 </p>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/sawdeveloper/fimbay?style=plastic)
-![GitHub language count](https://img.shields.io/github/languages/count/hamzashoukat091/odooapps?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/hamzashoukat091/odooapps?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/hamzashoukat091/odooapps?color=red&style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/hamzashoukat091/FlutterApi?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/hamzashoukat091/FlutterApi?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/hamzashoukat091/FlutterApi?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/hamzashoukat091/FlutterApi?color=red&style=plastic)
 
 <br/>
 
@@ -49,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 
 ## :raised_hands: Let's Learn Together!
 
-Feel free to ask me any questions about Python development | Web Development | ML | Odoo | OpenERP by email  (<a href="mailto:zeeshanrafiqrana@gmail.com">zeeshanrafiqrana@gmail.com</a>). As simple as that!
+Feel free to ask me any questions about Python development | Web Development | ML | Data Science | Scripting | Scrapping. As simple as that!
 
   </td>
   <td width="50%" valign="top">
@@ -62,53 +63,13 @@ Feel free to ask me any questions about Python development | Web Development | M
   </tr>
 </table>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzashoukat091&theme=material-palenight&hide=Jupyter&layout=compact)
 
-
-<div>
-  
-<h2>📊 Weekly development breakdown: </h2>
-<table>
-                <tr>
-                    <td width=215px;>
-                        Javascript
-                    </td>
-                    <td>
-                        11 hrs 43 mins
-                    </td>
-                    <td>
-                        ██████░░░░&nbsp;&nbsp;(67.01 %)
-                    </td>
-                </tr>
-                <tr>
-                    <td width=220px;>
-                        Python
-                    </td>
-                    <td width=145px;>
-                        3 hrs 8 mins
-                    </td>
-                    <td width=230px;>
-                        █░░░░░░░░░&nbsp;&nbsp;(17.92 %)
-                    </td>
-                </tr>
-                <tr>
-                    <td width=220px;>
-                        CSS
-                    </td>
-                    <td width=145px;>
-                        2 hrs 27 mins
-                    </td>
-                    <td width=230px;>
-                        █░░░░░░░░░&nbsp;&nbsp;(14.08 %)
-                    </td>
-                </tr></table>
-  </div>
-  <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanrafiqrana&theme=material-palenight&hide=Jupyter&layout=compact)]
   <p align="center">
     NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
 </p>
 <br>
   
 ------
-Last Modified By: [Rana Zeeshan Rafiq](https://github.com/zeeshanrafiqrana)
+Last Modified By: [Hamza Shoukat](https://github.com/hamzashoukat091)
 Last Edited on: 17/09/2022
