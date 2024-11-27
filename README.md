@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [hamzashoukat091.github.com/](https://hamzashoukat091.github.io/)
+- 👨‍💻 All of my projects are available at [hamzashoukat091.github.io/](https://hamzashoukat091.github.io/)
 
 - 📝 I regularly write articles on [https://medium.com/@bachhavdurgesh123](https://medium.com/@bachhavdurgesh123)
 
