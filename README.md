@@ -19,13 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@nikkhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@nikkhil" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/durgesh-bachhav-b5899322b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durgesh-bachhav-b5899322b" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/durgesh-bachhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="durgesh-bachhav" height="30" width="40" /></a>
-<a href="https://instagram.com/durgesh.bachhav_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="durgesh.bachhav_" height="30" width="40" /></a>
-<a href="https://dribbble.com/doorgesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="doorgesh" height="30" width="40" /></a>
-<a href="https://hashnode.com/@durgesh2901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@durgesh2901" height="30" width="40" /></a>
-<a href="https://medium.com/@bachhavdurgesh123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bachhavdurgesh123" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hamzashoukat091" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamzashoukat091" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11315243/hamza-shoukat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hamza-shoukat" height="30" width="40" /></a>
+<a href="https://instagram.com/hamzashoukat_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamzashoukat_" height="30" width="40" /></a>
+<a href="https://medium.com/@hamzashoukat091" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hamzashoukat091" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
