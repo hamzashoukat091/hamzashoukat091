@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Durgesh Bachhav</h1>
+<h1 align="center">Hi 👋, I'm Hamza Shoukat</h1>
 <h3 align="center">Turning Vision into Virtual Reality</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzashoukat091&label=Profile%20views&color=0e75b6&style=flat" alt="hamzashoukat091" /> </p>
@@ -9,13 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [hamzashoukat091.github.io/](https://hamzashoukat091.github.io/)
 
-- 📝 I regularly write articles on [https://medium.com/@bachhavdurgesh123](https://medium.com/@bachhavdurgesh123)
+- 📝 I regularly write articles on [https://medium.com/@hamzashoukat091](https://medium.com/@hamzashoukat091)
 
-- 💬 Ask me about **frontend backend**
+- 💬 Ask me about **Gen AI**
 
-- 📫 How to reach me **bachhavdurgesh123@gmail.com**
-
-- 📄 Know about my experiences [https://durgesh-bachhav.vercel.app/](https://durgesh-bachhav.vercel.app/)
+- 📫 How to reach me **hamzashoukat091@gmail.com**
 
 - ⚡ Fun fact **I'm basically a professional Googler at this point!**
 
